@@ -1,0 +1,5 @@
+.git
+README.md
+.dockerignore
+Dockerfile
+remove_intermediate_images.sh
